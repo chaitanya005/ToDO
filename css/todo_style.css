@@ -1,0 +1,31 @@
+
+*{
+    font-family: 'Lora', serif;
+}
+
+body{
+    background-color: beige;
+/*    padding: 20px;*/
+}
+
+.btn{
+    margin: 5px;
+    
+}
+
+h1{
+    margin: 40px;
+}
+
+#userinput{
+    width: 300px;
+    display: inline-block;
+}
+
+.form-control{
+    margin: 0 auto;
+}
+
+ul{
+    list-style-type: none;
+}
